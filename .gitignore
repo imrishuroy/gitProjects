@@ -1,0 +1,11 @@
+/text1.txt
+/text2.txt
+
+# Auto Gen Files
+# /auto-gen-files/a.txt
+# /auto-gen-files/b.txt
+# /auto-gen-files/c.txt
+
+# For ignoring all files inside a folder
+/auto-gen-files/*.txt
+
